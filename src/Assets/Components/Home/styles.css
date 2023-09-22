@@ -1,4 +1,5 @@
-    .home-container{
-        text-align: center;
-        margin-bottom: 2rem;
-    }
+.home-container {
+  text-align: center;
+  color: #a4133c;
+  font-size: 3rem;
+}
