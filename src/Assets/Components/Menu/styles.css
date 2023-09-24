@@ -1,4 +1,17 @@
 .menu-container{
+    margin: 0 auto;
     text-align: center;
     font-size: 1rem;
+    box-shadow: 0 7px 29px 0 rgba(97,97,194,.2);
+    max-width: 600px;
+    padding: 2rem;
+    background-color: #fff;
+}
+.menu-container h1{
+    font-size: 1.9rem;
+    margin: 1rem;
+}
+.button-container span{
+    font-size: 1.5rem;
+    color: #3c096c;
 }
