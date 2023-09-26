@@ -5,7 +5,9 @@ export default function Home() {
   return (
     <div>
       <div className="home-container">
-        <h2>Obrigada pela compra!</h2>
+        <h2>Obrigada pela compra!
+          <span className="heart">❤</span>
+        </h2>
         <span>É um prazer ter você como cliente!</span>
       </div>
     </div>
