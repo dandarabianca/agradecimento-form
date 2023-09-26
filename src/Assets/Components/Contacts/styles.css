@@ -4,3 +4,9 @@
     font-size: 1.5rem;
     align-items: center;
 }
+
+@media (max-width: 400px) {
+    .contact-container{
+        font-size: 0.9rem;
+    }
+}
